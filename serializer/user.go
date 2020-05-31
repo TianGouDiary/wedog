@@ -20,9 +20,7 @@ type UserResponse struct {
 
 // BuildUser 序列化用户
 func BuildUser(user model.Letter) User {
-	return User{
-
-	}
+	return User{}
 }
 
 // BuildUserResponse 序列化用户响应
