@@ -1,6 +1,5 @@
 
-
-create database wedog charset=utf8mb4;
+CREATE DATABASE wedog charset=utf8mb4;
 
 CREATE TABLE wedog.`letter_list` (
   `id` bigint unsigned NOT NULL AUTO_INCREMENT COMMENT '主键id',
