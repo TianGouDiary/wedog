@@ -23,6 +23,7 @@
  REDIS_DB=""
  SESSION_SECRE=""
  GIN_MODE="debug"
+ SERVER_LISTON_PORT=8088
  ```
  ##### 3. 项目根目录下执行
  ```cassandraql
